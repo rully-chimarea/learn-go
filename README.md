@@ -1,2 +1,2 @@
 # learn-go
-simple repository using Golang + Gorm 
+simple repository using Golang ( Echo Framework )
